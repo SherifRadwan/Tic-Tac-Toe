@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XO_Game.frmNameInput">
+    <Position X="1.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQEAAIAAACAAAAEAAACAAAACAAAABAAAAAAAAAAAAQQ=</HashCode>
+      <FileName>frmNameInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XO_Game.frmMain">
+    <Position X="4.5" Y="2" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="XO_Game.frmMain.doOnBtn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>frmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AiEgAAAgAOABAAgCgACAIDYCBIAEAAQoAACEAEAQ8C8=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="XO_Game.Game">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAEEBABAAIAAAACAAACgEACAAAAAIAQAIAAgIAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="random" />
+      <Property Name="PlayerTurn" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="board" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="XO_Game.Program">
+    <Position X="1.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Random" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="XO_Game.Player">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="XO_Game.PlayChar">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgAQAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,20 @@
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\bin\Debug\XO Game.exe
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\bin\Debug\XO Game.pdb
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\XO_Game.frmMain.resources
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\XO_Game.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\XO Game.exe
+c:\users\mahmoud\documents\visual studio 2010\Projects\XO Game\XO Game\obj\x86\Debug\XO Game.pdb
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\XO Game.exe
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\XO Game.pdb
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\XO_Game.frmMain.resources
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\XO_Game.Properties.Resources.resources
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio\XO Game_\XO Game\obj\x86\Debug\XO Game.exe
+D:\Visual Studio\XO Game\XO Game\bin\Debug\XO Game.exe
+D:\Visual Studio\XO Game\XO Game\bin\Debug\XO Game.pdb
+D:\Visual Studio\XO Game\XO Game\obj\x86\Debug\XO_Game.frmNameInput.resources
